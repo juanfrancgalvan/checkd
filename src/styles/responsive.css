@@ -1,0 +1,19 @@
+@media only screen and (width <=576px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .tasks {
+    min-height: 500px;
+  }
+
+  .task {
+    width: 100%;
+  }
+
+  .input {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+}
